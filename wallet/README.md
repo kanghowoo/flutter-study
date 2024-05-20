@@ -26,3 +26,6 @@
   - Text
     -  단일 스타일을 사용하는 일련의 텍스트
     -  style등의 속성으로 꾸밀 수 있다.
+
+
+*참고 - Flutter 공식 문서* - https://docs.flutter.dev/ui/widgets/basics

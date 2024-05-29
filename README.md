@@ -1,6 +1,7 @@
 # Flutter 학습 기록 레포지토리
 - **Wallet** (Flutter basic UI study ) - [바로가기](https://github.com/kanghowoo/flutter-study/tree/master/wallet)
-- 
+- **Stateful Widget** (Flutter stateful widget study) - [바로가기](https://github.com/kanghowoo/flutter-study/tree/master/stateful_widget)
+- **pomodoro** (Timer app) - [바로가기](https://github.com/kanghowoo/flutter-study/tree/master/pomodoro)
 <br/>
 
 
